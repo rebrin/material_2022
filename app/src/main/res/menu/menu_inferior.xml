@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+          android:title="inicio"
+          android:icon="@drawable/ic_star"></item>
+    <item android:id="@+id/opciones"
+          android:title="opciones"
+          android:icon="@drawable/icono"></item>
+    <item android:id="@+id/favoritos"
+          android:title="favoritos"
+          android:icon="@drawable/icono"></item>
+    <item android:id="@+id/karol"
+        android:title="bichota"
+        android:icon="@drawable/monito"></item>
+
+</menu>

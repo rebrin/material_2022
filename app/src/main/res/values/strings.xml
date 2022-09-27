@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Material 2022</string>
+    <string name="label">hola</string>
+    <string name="content_description_media">Titulo de card</string>
+    <string name="title">Titulo de CARD</string>
+    <string name="secondary_text">Texto secundario</string>
+    <string name="supporting_text">Descripción</string>
+    <string name="action_1">Opcion 1</string>
+    <string name="action_2">Opción 2</string>
+</resources>
